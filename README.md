@@ -109,6 +109,9 @@ reportlab
 
 ---
 
+## Work Flow
+[View on Eraser![](https://app.eraser.io/workspace/Rbwtj4qK6GaRhBOin8T1/preview?diagram=BZLtMUsQSI8v-XXmVoMZa&type=embed)](https://app.eraser.io/workspace/Rbwtj4qK6GaRhBOin8T1?diagram=BZLtMUsQSI8v-XXmVoMZa)
+
 ## 🤖 Models Used
 
 | Purpose | Model |

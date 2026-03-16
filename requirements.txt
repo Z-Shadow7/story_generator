@@ -2,8 +2,4 @@ streamlit
 groq
 python-dotenv
 requests
-<<<<<<< HEAD
 reportlab
-=======
-reportlab
->>>>>>> 86c8796e2ec2aa2643d5dab4d74295ff799f397c
